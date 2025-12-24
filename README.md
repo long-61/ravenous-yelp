@@ -23,3 +23,7 @@ A React app that searches Yelp businesses by **term**, **location**, and **sort 
 ```bash
 npm install
 ```
+
+## Screenshot
+
+![Search Results](screenshots/results.png)
